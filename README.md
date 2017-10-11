@@ -14,4 +14,4 @@ Library | Description | License | Latest Version
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.9.1 / 15 August 2017
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.3.1 / 5 July 2017
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
-[yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams | Commercial | 3.1 / 27 June 2017
+[yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs | Commercial | 3.1 / 27 June 2017
