@@ -13,3 +13,4 @@ Library | Description | License | Latest Version
 [OpenMap](http://openmap-java.org/) | Toolkit for building applications needing geographic information | [Custom](http://openmap-java.org/License.html) | 5.1.15 / December 9, 2016
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.9.1 / 15 August 2017
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.3.1 / 5 July 2017
+[JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
