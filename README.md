@@ -15,3 +15,4 @@ Library | Description | License | Latest Version
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.3.1 / 5 July 2017
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
 [yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs | Commercial | 3.1 / 27 June 2017
+[JxBrowser](https://www.teamdev.com/jxbrowser) |  Chromium-based browser component | Commercial | 6.16 / 05 October 2017
