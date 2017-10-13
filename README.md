@@ -20,4 +20,4 @@ Library | Description | License | Latest Version
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [WebLaF](https://github.com/mgarin/weblaf) | Java Look and Feel library | GPL / Commecial | v1.28 / Jun 26, 2014
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0. / Aug 9, 2017
-
+[RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
