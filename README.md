@@ -19,4 +19,5 @@ Library | Description | License | Latest Version
 [JxBrowser](https://www.teamdev.com/jxbrowser) |  Chromium-based browser component | Commercial | 6.16 / 05 October 2017
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [WebLaF](https://github.com/mgarin/weblaf) | Java Look and Feel library | GPL / Commecial | v1.28 / Jun 26, 2014
+[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Library that provides a fluent interface for functional Swing UI testing |  3.8.0. / Aug 9, 2017
 
