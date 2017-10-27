@@ -24,5 +24,5 @@ Library | Description | License | Latest Version
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0. / Aug 9, 2017
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
 [Zircon](https://github.com/Hexworks/zircon) | Text GUI library (for game developers) | MIT | 2017.3.1 / Oct 8, 2017
-[JGoodies](http://www.jgoodies.com/downloads/libraries/) | Various libraries | Commercial | 10 Oct, 2017
+[JGoodies](http://www.jgoodies.com/downloads/libraries/) | Libraries: Animation, Binding, Common, Forms, Looks, and Validation | Commercial | 10 Oct, 2017
 
