@@ -25,4 +25,5 @@ Library | Description | License | Latest Version
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
 [Zircon](https://github.com/Hexworks/zircon) | Text GUI library (for game developers) | MIT | 2017.3.1 / Oct 8, 2017
 [JGoodies](http://www.jgoodies.com/downloads/libraries/) | Libraries: Animation, Binding, Common, Forms, Looks, and Validation | Commercial | 10 Oct, 2017
+[Glazed Lists](http://www.glazedlists.com/) | Implementation of list suitable to be used as model for Swing components | LGPL/MPL | 1.11.0 / 10 Jan, 2018
 
