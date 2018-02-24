@@ -26,4 +26,4 @@ Library | Description | License | Latest Version
 [Zircon](https://github.com/Hexworks/zircon) | Text GUI library (for game developers) | MIT | 2017.3.1 / Oct 8, 2017
 [JGoodies](http://www.jgoodies.com/downloads/libraries/) | Libraries: Animation, Binding, Common, Forms, Looks, and Validation | Commercial | 10 Oct, 2017
 [Glazed Lists](http://www.glazedlists.com/) | Implementation of List suitable for using as data model for Swing components | LGPL/MPL | 1.11.0 / 10 Jan, 2018
-
+[FriceEngine](https://github.com/icela/FriceEngine) | JVM game engine based on Swing/JavaFX | Affero GPL | 1.8.3 / 21 Jan, 2018
