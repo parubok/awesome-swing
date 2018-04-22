@@ -27,7 +27,7 @@ Library | Description | License | Latest Version
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commecial | v1.28 / Jun 26, 2014
 [Substance L&F](https://github.com/kirill-grouchnikov/substance) | Look and Feel library | BSD 3-Clause | v8.0.02 / 26 March 2018
-[Material Design L&F](https://github.com/atarw/material-ui-swing) | Material Design UI | v0.9.1 / 20 April 2018
+[Material Design L&F](https://github.com/atarw/material-ui-swing) | Material Design UI | MIT | v0.9.1 / 20 April 2018
 [Flamingo](https://github.com/kirill-grouchnikov/flamingo) | Swing component suite | BSD 3-Clause | v5.3.00 / 15 March 2018
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0. / Aug 9, 2017
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
