@@ -22,6 +22,7 @@ Library | Description | License | Latest Version
 [yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs | Commercial | 3.1 / 27 June 2017
 [JxBrowser](https://www.teamdev.com/jxbrowser) | Chromium-based browser component | Commercial | 6.16 / 05 October 2017
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
+[Trident](https://github.com/kirill-grouchnikov/trident) |  Java animation library | BSD 3-Clause | 1.5.00 / 15 March 2018
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commecial | v1.28 / Jun 26, 2014
 [Substance L&F](https://github.com/kirill-grouchnikov/substance) | Look and Feel library | BSD 3-Clause | v8.0.02 / 26 March 2018
