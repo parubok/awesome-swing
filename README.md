@@ -38,3 +38,4 @@ Library | Description | License | Latest Version
 [Glazed Lists](http://www.glazedlists.com/) | Implementation of List suitable for using as data model for Swing components | LGPL/MPL | 1.11.0 / 10 Jan, 2018
 [FriceEngine](https://github.com/icela/FriceEngine) | JVM game engine based on Swing/JavaFX | Affero GPL | 1.8.3 / 21 Jan, 2018
 [SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 3.13 / April 8, 2018
+[gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
