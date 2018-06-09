@@ -39,3 +39,4 @@ Library | Description | License | Latest Version
 [FriceEngine](https://github.com/icela/FriceEngine) | JVM game engine based on Swing/JavaFX | Affero GPL | 1.8.3 / 21 Jan, 2018
 [SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 3.13 / April 8, 2018
 [gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
+[Foxtrot](http://foxtrot.sourceforge.net) | Synchronous Swing worker  | BSD | 4.0 / 2011-11-05
