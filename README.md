@@ -41,4 +41,5 @@ Library | Description | License | Latest Version
 [gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
 [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) | Source code of IntelliJ IDEA Community Edition | Apache 2.0 |
 [Lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs  | LGPL-3.0 | 3.0.1 / Jun 9, 2018
+[Griffon](https://github.com/griffon/griffon) | Desktop application development platform for the JVM  | Apache 2.0 | 2.15.0 / Jun 1, 2018
 [Foxtrot](http://foxtrot.sourceforge.net) | Synchronous Swing worker  | BSD | 4.0 / 2011-11-05
