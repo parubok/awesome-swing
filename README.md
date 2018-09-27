@@ -43,5 +43,5 @@ Library | Description | License | Latest Version
 [Lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs  | LGPL-3.0 | 3.0.1 / Jun 9, 2018
 [Griffon](http://griffon-framework.org/) | Desktop application development platform  | Apache 2.0 | 2.15.0 / Jun 1, 2018
 [FlexGantt](https://dlsc.com/products/flexgantt/) | Gantt charting framework  | Commercial | 2.1.0
-[Synthetica Look & Feel](http://www.jyloo.com/) |  Synthetica Swing Look & Feel with addons.  | Commercial | 3.1 / 11 Jul. 2018
+[Synthetica L&F](http://www.jyloo.com/) |  Synthetica Swing Look & Feel with addons.  | Commercial | 3.1 / 11 Jul. 2018
 [Foxtrot](http://foxtrot.sourceforge.net) | Synchronous Swing worker  | BSD | 4.0 / 2011-11-05
