@@ -31,7 +31,8 @@ Library | Description | License | Latest Version
 [Substance L&F](https://github.com/kirill-grouchnikov/substance) | Look and Feel library | BSD 3-Clause | v8.0.02 / 26 March 2018
 [Material Design L&F](https://github.com/atarw/material-ui-swing) | Material Design Look and Feel | MIT | v0.9.1 / 20 April 2018
 [Flamingo](https://github.com/kirill-grouchnikov/flamingo) | Swing component suite | BSD 3-Clause | v5.3.00 / 15 March 2018
-[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0. / Aug 9, 2017
+[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0 / Aug 9, 2017
+[Automaton](https://github.com/renatoathaydes/Automaton) | Framework for testing of Swing and JavaFX2 applications | Apache 2.0 | 1.3.2 / Jan 27, 2016
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
 [Zircon](https://github.com/Hexworks/zircon) | Text GUI library (for game developers) | MIT | 2017.3.1 / Oct 8, 2017
 [JGoodies](http://www.jgoodies.com/downloads/libraries/) | Libraries: Animation, Binding, Common, Forms, Looks, and Validation | Commercial | 10 Oct, 2017
