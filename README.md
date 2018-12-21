@@ -47,3 +47,4 @@ Library | Description | License | Latest Version
 [Synthetica L&F](http://www.jyloo.com/) |  Swing Look & Feel with addons  | Commercial | 3.1 / 11 Jul. 2018
 [Foxtrot](http://foxtrot.sourceforge.net) | Synchronous Swing worker  | BSD | 4.0 / 2011-11-05
 [Terminal Components](https://www.sshtools.com/en/products/terminal) | Implementations of a standard ANSI/VT terminal  | GPL/Commercial | 2.1.3 / Sep 22, 2016
+[Correlation-Matrix-K](https://github.com/Earnix/correlation-matrix-k) | Сorrelation matrix component  | Apache 2.0 | 1.0.1 / Dec 18, 2018
