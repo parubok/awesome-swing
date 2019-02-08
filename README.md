@@ -40,7 +40,7 @@ Library | Description | License | Latest Version
 [FriceEngine](https://github.com/icela/FriceEngine) | JVM game engine based on Swing/JavaFX | Affero GPL | 1.8.3 / 21 Jan, 2018
 [SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 3.13 / April 8, 2018
 [gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
-[DragonConsole](https://github.com/bbuck/DragonConsole) | The DragonConsole is a cross platform Java based Terminal Emulator. | MIT | n/a
+[DragonConsole](https://github.com/bbuck/DragonConsole) | Terminal Emulator. | MIT | n/a
 [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) | Source code of IntelliJ IDEA Community Edition | Apache 2.0 |
 [Lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs  | LGPL-3.0 | 3.0.1 / Jun 9, 2018
 [Griffon](http://griffon-framework.org/) | Desktop application development platform  | Apache 2.0 | 2.15.0 / Jun 1, 2018
