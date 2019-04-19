@@ -51,3 +51,4 @@ Library | Description | License | Latest Version
 [Terminal Components](https://www.sshtools.com/en/products/terminal) | Implementations of a standard ANSI/VT terminal  | GPL/Commercial | 2.1.3 / Sep 22, 2016
 [Correlation-Matrix-K](https://github.com/Earnix/correlation-matrix-k) | Сorrelation matrix component  | Apache 2.0 | 1.0.1 / Dec 18, 2018
 [SwiXml](https://github.com/swixml/Two) | XML-to-GUI generating engine   | [Custom](https://github.com/swixml/Two/blob/master/license.txt) | 2.4 / Dec 28, 2014
+[JClass DesktopViews](https://support.quest.com/jclass-desktopviews/6.5.2) | Library of various Swing components | Commercial | 6.5.2
