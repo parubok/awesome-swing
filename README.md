@@ -53,3 +53,4 @@ Library | Description | License | Latest Version
 [SwiXml](https://github.com/swixml/Two) | XML-to-GUI generating engine   | [Custom](https://github.com/swixml/Two/blob/master/license.txt) | 2.4 / Dec 28, 2014
 [JClass DesktopViews](https://support.quest.com/jclass-desktopviews/6.5.2) | Various Swing components incl. charts | Commercial | 6.5.2
 [JWrapper](https://www.jwrapper.com) | Native installer (and more) for Java apps | Commercial | 11 April 2018
+[jaret timebars](http://jaret.de/timebars/index.html) | Timeline/Gantt chart-like component | GPL/Commercial | 1.49 / 2013-09-17
