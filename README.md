@@ -54,4 +54,3 @@ Library | Description | License | Latest Version
 [JClass DesktopViews](https://support.quest.com/jclass-desktopviews/6.5.2) | Various Swing components incl. charts | Commercial | 6.5.2
 [JWrapper](https://www.jwrapper.com) | Native installer (and more) for Java apps | Commercial | 11 April 2018
 [jaret timebars](http://jaret.de/timebars/index.html) | Timeline/Gantt chart-like component | GPL/Commercial | 1.49 / 2013-09-17
-[FlexGantt](https://dlsc.com/products/flexgantt/) | Gantt charting framework | Commercial | 2.1.0
