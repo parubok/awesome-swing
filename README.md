@@ -20,7 +20,6 @@ Library | Description | License | Latest Version
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.11 / Feb 13 2019
 [SVG Salamander](https://github.com/blackears/svgSalamander) | SVG Salamander is an SVG engine for Java | LGPL and BSD | 1.1.1 / 20 August 2016
 [JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 3.3 / 7 November 2017
-[ibis](https://github.com/kirill-grouchnikov/ibis) | SVG icons for Swing applications | BSD 3-Clause | 1.0.00 / 15 March 2018
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.3.1 / 5 July 2017
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
 [yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs | Commercial | 3.1 / 27 June 2017
@@ -28,7 +27,6 @@ Library | Description | License | Latest Version
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.28 / Jun 26, 2014
-[Substance L&F](https://github.com/kirill-grouchnikov/substance) | Look and Feel library | BSD 3-Clause | v8.0.02 / 26 March 2018
 [Material Design L&F](https://github.com/atarw/material-ui-swing) [(+fork with Android Toast component)](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v0.9.1 / 20 April 2018
 [Radiance libraries](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries | BSD 3-Clause | v2.0.1 / 12 March 2019
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0 / Aug 9, 2017
