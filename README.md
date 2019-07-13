@@ -20,7 +20,7 @@ Library | Description | License | Latest Version
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.11 / Feb 13 2019
 [SVG Salamander](https://github.com/blackears/svgSalamander) | SVG Salamander is an SVG engine for Java | LGPL and BSD | 1.1.2 / Aug 8, 2018
 [JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 3.3 / 7 November 2017
-[LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.3.1 / 5 July 2017
+[LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.4.1 / Jun 22, 2018
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
 [yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs | Commercial | 3.1 / 27 June 2017
 [JxBrowser](https://www.teamdev.com/jxbrowser) | Chromium-based browser component | Commercial | 6.16 / 05 October 2017
