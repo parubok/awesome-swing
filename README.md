@@ -52,3 +52,4 @@ Library | Description | License | Latest Version
 [JWrapper](https://www.jwrapper.com) | Native installer (and more) for Java apps | Commercial | 11 April 2018
 [jaret timebars](http://jaret.de/timebars/index.html) | Timeline/Gantt chart-like component | GPL/Commercial | 1.49 / 2013-09-17
 [fontchooser](https://gitlab.com/dheid/fontchooser) | Component to choose a font according to the list of available font families, styles and sizes | GNU LGPLv3 | 2.4
+[JTouchBar](https://github.com/Thizzer/jtouchbar) | Library for using the touchbar API on supported macbooks. | MIT | 1.0.0 / Jan 22, 2019
