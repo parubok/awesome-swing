@@ -10,7 +10,7 @@ Library | Description | License | Latest Version
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 	3.0.3 / May 9, 2019
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | GNU LGPL | v9.1.18 / Mar 6, 2019
 [Lobo](https://sourceforge.net/projects/xamj/) [LoboEvolution](https://github.com/oswetto/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 0.98.4 / 2015-01-26
-[CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | GNU LGPL | 4.14 / 30 Jan 2018
+[CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | GNU LGPL | 4.15 / 24 May 2019
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 5.1 / Mar 17, 2018
 [MiG Calendar](http://www.migcalendar.com) | Calendar Component | Commercial | v6.9.3
 [TableLayout](https://github.com/EsotericSoftware/tablelayout) | Table-based layout for Java UI toolkits (incl. Swing) | ? | n/a
