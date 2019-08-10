@@ -29,7 +29,7 @@ Library | Description | License | Latest Version
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.28 / Jun 26, 2014
 [Material Design L&F](https://github.com/atarw/material-ui-swing) [(+fork with Android Toast component)](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v0.9.1 / 20 April 2018
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 2.0.1 / 12 March 2019
-[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.8.0 / Aug 9, 2017
+[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.9.2 / 2019-02-08
 [Automaton](https://github.com/renatoathaydes/Automaton) | Framework for testing of Swing and JavaFX2 applications | Apache 2.0 | 1.3.2 / Jan 27, 2016
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
 [Zircon](https://github.com/Hexworks/zircon) | Text GUI library (for game developers) | MIT | 2017.3.1 / Oct 8, 2017
