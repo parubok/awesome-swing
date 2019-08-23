@@ -28,7 +28,7 @@ Library | Description | License | Latest Version
 [JxBrowser](https://www.teamdev.com/jxbrowser) | Chromium-based browser component | Commercial | 7.1 / Jul 30, 2019
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
-[WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.28 / Jun 26, 2014
+[WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.2.9 / Aug 5, 2019
 [Material Design L&F](https://github.com/atarw/material-ui-swing) [(+fork with Android Toast component)](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v0.9.1 / 20 April 2018
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 2.0.1 / 12 March 2019
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.9.2 / 2019-02-08
