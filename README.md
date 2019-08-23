@@ -56,4 +56,4 @@ Library | Description | License | Latest Version
 [fontchooser](https://gitlab.com/dheid/fontchooser) | Component to choose a font according to the list of available font families, styles and sizes | GNU LGPLv3 | 2.4
 [JTouchBar](https://github.com/Thizzer/jtouchbar) | Library for using the touchbar API on supported macbooks. | MIT | 1.0.0 / Jan 22, 2019
 [JnaFileChooser](https://github.com/steos/jnafilechooser) |  File chooser that uses the Windows native dialogs if possible. | Custom (Open Source) | 1.0 / Jun 23, 2018
-[Jexer](https://github.com/klamonte/jexer) |  Java Text User Interface library | MIT | v0.0.5 / Aug 16, 2017
+[Jexer](https://gitlab.com/klamonte/jexer) |  Java Text User Interface library | MIT | v0.3.1 / Aug 2, 2019
