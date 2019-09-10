@@ -38,7 +38,7 @@ Library | Description | License | Latest Version
 [JGoodies](http://www.jgoodies.com/downloads/libraries/) | Libraries: Animation, Binding, Common, Forms, Looks, and Validation | Commercial | 10 Oct, 2017
 [Glazed Lists](http://www.glazedlists.com/) | Implementation of List suitable for using as data model for Swing components | LGPL/MPL | 1.11.0 / 10 Jan, 2018
 [FriceEngine](https://github.com/icela/FriceEngine) | JVM game engine based on Swing/JavaFX | Affero GPL | 1.8.3 / 21 Jan, 2018
-[SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 3.13 / April 8, 2018
+[SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 3.17 / Nov 3, 2018
 [gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
 [DragonConsole](https://github.com/bbuck/DragonConsole) | Terminal emulator | MIT | n/a
 [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) | Source code of IntelliJ IDEA Community Edition | Apache 2.0 |
