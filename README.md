@@ -4,6 +4,7 @@ A list of frameworks, libraries and software for the Java Swing GUI toolkit.
 Library | Description | License | Latest Version
 --- | --- | --- | ---
 [JUNG](http://jrtom.github.io/jung/) | Network/Graph framework | BSD 3-Clause | 2.1.1 / 7 September 2016
+[JGraphX](https://github.com/jgraph/jgraphx) | Diagramming (graph visualisation) library | BSD |
 [XChart](http://knowm.org/open-source/xchart/) | Lightweight library for plotting data | Apache 2.0 | 3.5.4 / Feb 14, 2019
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.0 / 5 November 2017
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 1.5.1 / 26 Feb. 2018
