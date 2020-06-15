@@ -20,7 +20,7 @@ Library | Description | License | Latest Version
 [OpenMap](http://openmap-java.org/) | Toolkit for building applications needing geographic information | [Custom](http://openmap-java.org/License.html) | 5.1.15 / December 9, 2016
 [JXMapViewer2](https://github.com/msteiger/jxmapviewer2) | Geo map viewer | LGPL | 2.4 / Feb 24, 2018
 [GeoTools gt-swing module](http://docs.geotools.org/stable/userguide/unsupported/swing/index.html) | Basic GUI and utility classes for GeoTools library | LGPL | 19.0 / 2018-03-19
-[Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.12 / Nov 5, 2019
+[Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.13 / May 13, 2020
 [SVG Salamander](https://github.com/blackears/svgSalamander) | SVG Salamander is an SVG engine for Java | LGPL and BSD | 1.1.2 / Aug 8, 2018
 [JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 3.3 / 7 November 2017
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 10.4.1 / Jun 22, 2018
