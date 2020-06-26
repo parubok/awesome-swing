@@ -61,3 +61,4 @@ Library | Description | License | Latest Version
 [JTouchBar](https://github.com/Thizzer/jtouchbar) | Library for using the touchbar API on supported macbooks. | MIT | 1.0.0 / Jan 22, 2019
 [JnaFileChooser](https://github.com/steos/jnafilechooser) |  File chooser that uses the Windows native dialogs if possible. | Custom (Open Source) | 1.0 / Jun 23, 2018
 [Jexer](https://gitlab.com/klamonte/jexer) |  Java Text User Interface library | MIT | v0.3.1 / Aug 2, 2019
+[JViews](https://www.roguewave.com/products-services/visualization/jviews) |  UI Components | Commercial | 2017
