@@ -62,4 +62,4 @@ Library | Description | License | Latest Version
 [JnaFileChooser](https://github.com/steos/jnafilechooser) |  File chooser that uses the Windows native dialogs if possible. | Custom (Open Source) | 1.0 / Jun 23, 2018
 [Jexer](https://gitlab.com/klamonte/jexer) |  Java Text User Interface library | MIT | v0.3.1 / Aug 2, 2019
 [JViews](https://www.roguewave.com/products-services/visualization/jviews) |  UI Components | Commercial | 2017
-[JSplitButton](https://github.com/rhwood/jsplitbutton) | A split button control (i.e. menu button) | Apache 2.0 | 1.3.1 / Jan 11, 2018
+[JSplitButton](https://github.com/rhwood/jsplitbutton) | A split button control | Apache 2.0 | 1.3.1 / Jan 11, 2018
