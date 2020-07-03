@@ -64,3 +64,4 @@ Library | Description | License | Latest Version
 [JViews](https://www.roguewave.com/products-services/visualization/jviews) |  UI Components | Commercial | 2017
 [JSplitButton](https://github.com/rhwood/jsplitbutton) | A split button control | Apache 2.0 | 1.3.1 / Jan 11, 2018
 [UiBooster](https://github.com/Milchreis/UiBooster) | Fast and easy dialogs for utility tools | GPL-3.0 | 1.8.1 / Jun 26, 2020
+[Java Swing examples](https://github.com/aterai/java-swing-tips) | Java Swing examples | MIT |
