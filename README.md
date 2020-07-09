@@ -70,3 +70,4 @@ Library | Description | License | Latest Version
 [JTreeTable](https://github.com/javagl/JTreeTable) | JTreeTable Component | Public domain ? | 0.0.1 / Jan 22, 2016
 [swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing | GPL v2 with the Classpath exception | 1.5 / Jul 5, 2020
 [SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the [SwingX library](https://en.wikipedia.org/wiki/SwingLabs) | LGPL |
+[Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
