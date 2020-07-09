@@ -68,3 +68,4 @@ Library | Description | License | Latest Version
 [Java Swing Tips](https://github.com/aterai/java-swing-tips) | Java Swing examples | MIT |
 [JTreeTable](https://github.com/javagl/JTreeTable) | JTreeTable Component | Public domain ? | 0.0.1 / Jan 22, 2016
 [swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing | GPL v2 with the Classpath exception | 1.5 / Jul 5, 2020
+[SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the SwingX library | LGPL |
