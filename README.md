@@ -72,4 +72,4 @@ Library | Description | License | Latest Version
 [SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the [SwingX library](https://en.wikipedia.org/wiki/SwingLabs) | LGPL |
 [Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
 [KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | ? |
-[SwingSpy](https://github.com/igr/swingspy) | Swing introspector which may be useful during development or debugging of Swing UI. | MIT |
+[SwingSpy](https://github.com/igr/swingspy) | Component tree visualizer for Swing UI debugging. | MIT |
