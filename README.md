@@ -74,3 +74,4 @@ Library | Description | License | Latest Version
 [Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
 [KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | ? |
 [SwingSpy](https://github.com/igr/swingspy) | Component tree visualizer for Swing UI debugging. | MIT |
+[SyntaxPane](https://github.com/Sciss/SyntaxPane) | JEditorKit component supporting syntax highlighting for various languages. | Apache 2.0 | v1.2.0 / Dec 10, 2018
