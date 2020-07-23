@@ -77,3 +77,4 @@ Library | Description | License | Latest Version
 [SyntaxPane](https://github.com/Sciss/SyntaxPane) | JEditorKit component supporting syntax highlighting for various languages. | Apache 2.0 | v1.2.0 / Dec 10, 2018
 [Text-IO](https://github.com/beryx/text-io) | Library for creating Java console applications (provides Swing terminal). | Apache 2.0 | 3.4.1 / Apr 17, 2020
 [SwingBits](https://github.com/eugener/oxbow) | Swing UI Enhacements | BSD-3-Clause License |
+[scala-swing](https://github.com/scala/scala-swing) | UI library that wraps most of Java Swing for Scala | Apache 2.0 | v2.1.1 / Jun 9, 2019
