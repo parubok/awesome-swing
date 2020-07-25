@@ -78,3 +78,4 @@ Library | Description | License | Latest Version
 [Text-IO](https://github.com/beryx/text-io) | Library for creating Java console applications (provides Swing terminal). | Apache 2.0 | 3.4.1 / Apr 17, 2020
 [SwingBits](https://github.com/eugener/oxbow) | Swing UI Enhacements | BSD-3-Clause License |
 [scala-swing](https://github.com/scala/scala-swing) | UI library that wraps most of Java Swing for Scala | Apache 2.0 | v2.1.1 / Jun 9, 2019
+[TwelveMonkeys ImageIO](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO. | BSD-3-Clause | 3.6 / Jul 10, 2020
