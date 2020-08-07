@@ -81,3 +81,4 @@ Library | Description | License | Latest Version
 [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO. | BSD-3-Clause | 3.6 / Jul 10, 2020
 [AWT Color Factory](https://github.com/beryx/awt-color-factory) | Easily create `java.awt.Color` from string. | GPL v2 with CE | v1.0.1 / Jun 11, 2019
 [The Snake](https://github.com/hexadeciman/Snake) | A simple snake game. | MIT |
+[file-manager](https://github.com/javadev/file-manager) | Basic File Manager. | MIT | 1.0 / Aug 6, 2015
