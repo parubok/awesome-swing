@@ -80,3 +80,4 @@ Library | Description | License | Latest Version
 [scala-swing](https://github.com/scala/scala-swing) | UI library that wraps most of Java Swing for Scala | Apache 2.0 | v2.1.1 / Jun 9, 2019
 [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO. | BSD-3-Clause | 3.6 / Jul 10, 2020
 [AWT Color Factory](https://github.com/beryx/awt-color-factory) | Easily create `java.awt.Color` from string. | GPL v2 with CE | v1.0.1 / Jun 11, 2019
+[The Snake](https://github.com/hexadeciman/Snake) | A simple snake game. | MIT |
