@@ -83,3 +83,4 @@ Library | Description | License | Latest Version
 [The Snake](https://github.com/hexadeciman/Snake) | A simple snake game | MIT |
 [file-manager](https://github.com/javadev/file-manager) | Basic File Manager | MIT | 1.0 / Aug 6, 2015
 [Pumpernickel Project](https://mickleness.github.io/pumpernickel/) | Swing components and other related code (see [demo](https://github.com/mickleness/pumpernickel/raw/master/release/jars/Pumpernickel.jar)) | MIT |
+[Spring Boot Swing Reservations](https://github.com/DanielMichalski/spring-boot-swing-reservations) | Spring Boot + JPA/Hibernate Swing application | MIT | 1.0 / Aug 1, 2020
