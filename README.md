@@ -86,3 +86,4 @@ Library | Description | License | Latest Version
 [Pumpernickel Project](https://mickleness.github.io/pumpernickel/) | Swing components and other related code (see [demo](https://github.com/mickleness/pumpernickel/raw/master/release/jars/Pumpernickel.jar)) | MIT |
 [Spring Boot Swing Reservations](https://github.com/DanielMichalski/spring-boot-swing-reservations) | Spring Boot + JPA/Hibernate Swing application | MIT | 1.0 / Aug 1, 2020
 [NetBeans Platform](https://netbeans.org/features/platform/) | Generic framework for Swing applications | [CDDL](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License) &  GPL v2 with CE | 12.0 LTS / June 4, 2020
+[Cypher Notepad](https://github.com/Cypher-Notepad/Cypher-Notepad) | Plain-text (.txt) editor for file encryption. | ? | v2.1 / May 28, 2020
