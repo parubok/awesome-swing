@@ -89,3 +89,4 @@ Library | Description | License | Latest Version
 [Cypher Notepad](https://github.com/Cypher-Notepad/Cypher-Notepad) | Plain-text (.txt) editor for file encryption | ? | v2.1 / May 28, 2020
 [JPass](https://github.com/gaborbata/jpass) | Password manager application with strong encryption (AES-256) | ["As is"](https://github.com/gaborbata/jpass/blob/master/LICENSE) | 0.1.19 / Mar 27, 2020
 [jEdit](http://www.jedit.org/) | Programmer's text editor | GPL 2.0 | 5.6.0 / Sep 03, 2020
+[Apache JMeter](https://github.com/apache/jmeter) | Java application designed to measure performance and load test applications | Apache 2.0 | v5.3 / May 15, 2020
