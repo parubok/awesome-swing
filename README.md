@@ -32,7 +32,7 @@ Library | Description | License | Latest Version
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.2.9 / Aug 5, 2019
 [FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 0.36 / Jun 9, 2020
-[Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v2.4.0 / Jul 7, 2020
+[Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v2.4.7 / Sep 9, 2020
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.1 / Aug 3, 2020
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 3.0.0 / May 30, 2020
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.9.2 / 2019-02-08
