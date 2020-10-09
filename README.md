@@ -91,4 +91,5 @@ Library | Description | License | Latest Version
 [jEdit](http://www.jedit.org/) | Programmer's text editor | GPL 2.0 | 5.6.0 / Sep 03, 2020
 [Apache JMeter](https://github.com/apache/jmeter) | Java application designed to measure performance and load test applications | Apache 2.0 | v5.3 / May 15, 2020
 [Calculator](https://github.com/HouariZegai/Calculator) | Very basic calculator application | MIT |
-[GC4S](https://github.com/sing-group/GC4S) |  Bioinformatics-oriented collection of GUI Components | LGPLv3 | v1.6.0 / Sep 4, 2020
+[GC4S](https://github.com/sing-group/GC4S) | Bioinformatics-oriented collection of GUI Components | LGPLv3 | v1.6.0 / Sep 4, 2020
+[ChuckooChess](https://github.com/sauce-code/cuckoo) | Adaptation of Peter Österlund's CuckooChess | GPL v3 | v1.12 / Jul 30, 2017
