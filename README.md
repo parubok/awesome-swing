@@ -73,7 +73,7 @@ Library | Description | License | Latest Version
 [swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
 [SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the [SwingX library](https://en.wikipedia.org/wiki/SwingLabs) | LGPL |
 [Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
-[KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | ? |
+[KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | Apache 2.0 |
 [SwingSpy](https://github.com/igr/swingspy) | Component tree visualizer for Swing UI debugging | MIT |
 [SyntaxPane](https://github.com/Sciss/SyntaxPane) | JEditorKit component supporting syntax highlighting for various languages | Apache 2.0 | v1.2.0 / Dec 10, 2018
 [Text-IO](https://github.com/beryx/text-io) | Library for creating Java console applications (provides Swing terminal). | Apache 2.0 | 3.4.1 / Apr 17, 2020
