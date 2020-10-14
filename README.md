@@ -35,7 +35,7 @@ Library | Description | License | Latest Version
 [Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v2.4.7 / Sep 9, 2020
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.1 / Aug 3, 2020
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 3.0.0 / May 30, 2020
-[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.9.2 / 2019-02-08
+[AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.17.1 / Sep 19, 2020
 [UISpec4J](https://github.com/UISpec4J/UISpec4J) | Functional and/or unit testing library for Swing-based applications | ? | 2.4 / Nov 26, 2011
 [Automaton](https://github.com/renatoathaydes/Automaton) | Framework for testing of Swing and JavaFX2 applications | Apache 2.0 | 1.3.2 / Jan 27, 2016
 [RxSwing](https://github.com/ReactiveX/RxSwing) | RxJava bindings for Swing | Apache 2.0 | 0.27.0 / Sep 17, 2016
