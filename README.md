@@ -93,3 +93,4 @@ Library | Description | License | Latest Version
 [Calculator](https://github.com/HouariZegai/Calculator) | Very basic calculator application | MIT |
 [GC4S](https://github.com/sing-group/GC4S) | Bioinformatics-oriented collection of GUI Components | LGPLv3 | v1.6.0 / Sep 4, 2020
 [ChuckooChess](https://github.com/sauce-code/cuckoo) | Adaptation of Peter Österlund's CuckooChess | GPL v3 | v1.12 / Jul 30, 2017
+[icon-generator](https://github.com/sshtools/icon-generator) | A simple library for generating icons in Java | Apache 2.0 | v1.2 / Oct 14, 2020
