@@ -8,7 +8,7 @@ Library | Description | License | Latest Version
 [Piccolo2D](https://github.com/piccolo2d/piccolo2d.java) | Graphical toolkit based on the Java2D API | Custom (free) | 3.0.1 / Jan 7, 2019
 [XChart](http://knowm.org/open-source/xchart/) | Lightweight library for plotting data | Apache 2.0 | 3.6.5 / Aug 1, 2020
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.0 / 5 November 2017
-[Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for the Java | GPL-3.0/Commercial | 2.0 / Mar 15, 2020
+[Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.0 / Mar 15, 2020
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 1.5.1 / 26 Feb. 2018
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 	3.1.1 / Apr 7, 2020
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | v9.1.20 / Jan 10, 2020
