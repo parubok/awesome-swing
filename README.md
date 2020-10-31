@@ -95,3 +95,4 @@ Library | Description | License | Latest Version
 [GC4S](https://github.com/sing-group/GC4S) | Bioinformatics-oriented collection of GUI Components | LGPLv3 | v1.6.0 / Sep 4, 2020
 [ChuckooChess](https://github.com/sauce-code/cuckoo) | Adaptation of Peter Österlund's CuckooChess | GPL v3 | v1.12 / Jul 30, 2017
 [icon-generator](https://github.com/sshtools/icon-generator) | A simple library for generating icons in Java | Apache 2.0 | v1.2 / Oct 14, 2020
+[Swing Library](https://github.com/oliverwatkins/swing_library) | This library contains a number of advanced components and layout managers the Java Swing framework is missing | MIT |
