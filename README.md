@@ -96,3 +96,4 @@ Library | Description | License | Latest Version
 [ChuckooChess](https://github.com/sauce-code/cuckoo) | Adaptation of Peter Österlund's CuckooChess | GPL v3 | v1.12 / Jul 30, 2017
 [icon-generator](https://github.com/sshtools/icon-generator) | A simple library for generating icons in Java | Apache 2.0 | v1.2 / Oct 14, 2020
 [Swing Library](https://github.com/oliverwatkins/swing_library) | This library contains a number of advanced components and layout managers the Java Swing framework is missing | MIT |
+[projector-server](https://github.com/JetBrains/projector-server) | Server-side library for running Swing applications remotely | GPL-2.0 | v0.48.12 / Nov 3, 2020
