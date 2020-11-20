@@ -98,3 +98,4 @@ Library | Description | License | Latest Version
 [icon-generator](https://github.com/sshtools/icon-generator) | A simple library for generating icons in Java | Apache 2.0 | v1.2 / Oct 14, 2020
 [Swing Library](https://github.com/oliverwatkins/swing_library) | This library contains a number of advanced components and layout managers the Java Swing framework is missing | MIT |
 [projector-server](https://github.com/JetBrains/projector-server) | Server-side library for running Swing applications remotely | GPL-2.0 | v0.48.12 / Nov 3, 2020
+[FScape](https://github.com/Sciss/FScape) | Standalone, cross-platform audio rendering software | GPL-3.0 | v1.7.0 / Dec 11, 2018
