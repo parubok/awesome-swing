@@ -100,3 +100,4 @@ Library | Description | License | Latest Version
 [projector-server](https://github.com/JetBrains/projector-server) | Server-side library for running Swing applications remotely | GPL-2.0 | v0.48.12 / Nov 3, 2020
 [FScape](https://github.com/Sciss/FScape) | Standalone, cross-platform audio rendering software | GPL-3.0 | v1.7.0 / Dec 11, 2018
 [ScalaInterpreterPane](https://github.com/Sciss/ScalaInterpreterPane) | Swing component for editing code in the Scala programming language and executing it in an interpreter | LGPL-2.1 | v1.11.0 / Nov 12, 2020
+[jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) |  Graphical frontend for the command-line ExifTool application | GPL-3.0 | 1.8.1 / Dec 8, 2020
