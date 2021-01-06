@@ -102,3 +102,4 @@ Library | Description | License | Latest Version
 [ScalaInterpreterPane](https://github.com/Sciss/ScalaInterpreterPane) | Swing component for editing code in the Scala programming language and executing it in an interpreter | LGPL-2.1 | v1.11.0 / Nov 12, 2020
 [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) |  Graphical frontend for the command-line ExifTool application | GPL-3.0 | 1.8.1 / Dec 8, 2020
 [Rest API Testing](https://github.com/supanadit/restsuite) |  Open Source Rest API Testing | Apache 2.0 | 1.0.0 / Jul 29, 2020
+[Jython Swing Utilities](https://github.com/jython/swingutils) |  A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
