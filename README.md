@@ -27,7 +27,7 @@ Library | Description | License | Latest Version
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 11.1.0 / Sep 13, 2020
 [JDatePicker](https://github.com/JDatePicker/JDatePicker) | Date Picker widget | BSD | 1.3.4.1 / Jun 6, 2015
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
-[yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs. See [demo](https://github.com/yWorks/yfiles-for-java-swing-demos). | Commercial | 3.1 / 27 June 2017
+[yFiles](https://www.yworks.com/products/yfiles-for-java) |  UI controls for drawing, viewing, and editing diagrams & graphs. [Demos](https://github.com/yWorks/yfiles-for-java-swing-demos). | Commercial | 3.1 / 27 June 2017
 [JxBrowser](https://www.teamdev.com/jxbrowser) | Chromium-based browser component | Commercial | 7.8 / May 29, 2020
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
