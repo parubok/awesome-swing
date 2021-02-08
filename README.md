@@ -50,7 +50,7 @@ Library | Description | License | Latest Version
 [JediTerm](https://github.com/JetBrains/jediterm) | Terminal widget that can be easily embedded into an IDE | LGPLv3 and Apache 2.0 | [v2.31](https://mvnrepository.com/artifact/org.jetbrains.jediterm/jediterm-pty/2.31) / Sep 20, 2020
 [swing-console](https://github.com/mikera/swing-console) |  Text console component | [LGPL](https://github.com/mikera/swing-console/issues/3) | 0.1.2 / Mar 14, 2013
 [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) | Source code of IntelliJ IDEA Community Edition | Apache 2.0 |
-[Lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs  | LGPL-3.0 | 3.0.1 / Jun 9, 2018
+[Lanterna](https://github.com/mabe02/lanterna) | Java library for creating text-based GUIs  | LGPL-3.0 | 3.1.1 / Jan 3, 2021
 [Griffon](http://griffon-framework.org/) | Desktop application development platform  | Apache 2.0 | 2.15.0 / Jun 1, 2018
 [jGAF](https://github.com/pgdurand/jGAF) | Generic Swing Application Framework  | Apache 2.0 | v2.4.0 / Jul 27, 2020
 [CUF](http://cuf.sourceforge.net/) | Utility library and application framework for building GUI applications in Swing (and JavaFX/.Net)  | Apache 2.0 | v.2.0.8 / 2017-03-06
