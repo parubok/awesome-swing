@@ -85,6 +85,7 @@ Library | Description | License | Latest Version
 [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO | BSD-3-Clause | 3.6 / Jul 10, 2020
 [AWT Color Factory](https://github.com/beryx/awt-color-factory) | Easily create `java.awt.Color` from string | GPL v2 with CE | v1.0.2 / Aug 2, 2020
 [The Snake](https://github.com/hexadeciman/Snake) | A simple snake game | MIT |
+[BatBat Game](https://github.com/tonikolaba/BatBat-Game) | BatBat is an easy and free Maven Java game run in Spring Boot | MIT | 2.5 / Jun 16, 2020
 [file-manager](https://github.com/javadev/file-manager) | Basic File Manager | MIT | 1.0 / Aug 6, 2015
 [Pumpernickel Project](https://mickleness.github.io/pumpernickel/) | Swing components and other related code (see [demo](https://github.com/mickleness/pumpernickel/raw/master/release/jars/Pumpernickel.jar)) | MIT |
 [Spring Boot Swing Reservations](https://github.com/DanielMichalski/spring-boot-swing-reservations) | Spring Boot + JPA/Hibernate Swing application | MIT | 1.0 / Aug 1, 2020
