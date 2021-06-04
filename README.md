@@ -11,7 +11,7 @@ Library | Description | License | Latest Version
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.0 / Mar 15, 2020
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 1.5.1 / 26 Feb. 2018
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 	3.1.2 / Dec 27, 2020
-[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | v9.1.20 / Jan 10, 2020
+[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | v9.1.21 / Apr 22, 2021
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/oswetto/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 0.98.4 / 2015-01-26
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 5.1 / Mar 17, 2018
