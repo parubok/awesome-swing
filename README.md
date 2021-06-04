@@ -32,7 +32,7 @@ Library | Description | License | Latest Version
 [Timing Framework](https://mvnrepository.com/artifact/net.java.timingframework/timingframework-swing/7.3.1) |  Time-based animations in Swing | Apache 2.0 | 7.3.1 / 12 February 2014
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.2.9 / Aug 5, 2019
-[FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 1.0 / Feb 26, 2021
+[FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 1.2 / May 18, 2021
 [Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v2.4.7 / Sep 9, 2020
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.1 / Aug 3, 2020
 [VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2021.03.04
