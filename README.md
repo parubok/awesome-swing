@@ -70,7 +70,7 @@ Library | Description | License | Latest Version
 [Jexer](https://gitlab.com/klamonte/jexer) |  Java Text User Interface library | MIT | v0.3.1 / Aug 2, 2019
 [JViews](https://www.roguewave.com/products-services/visualization/jviews) |  UI Components | Commercial | 2017
 [JSplitButton](https://github.com/rhwood/jsplitbutton) | A split button control | Apache 2.0 | 1.3.1 / Jan 11, 2018
-[UiBooster](https://github.com/Milchreis/UiBooster) | Fast and easy dialogs for utility tools | GPL-3.0 | 1.8.1 / Jun 26, 2020
+[UiBooster](https://github.com/Milchreis/UiBooster) | Fast and easy dialogs for utility tools | GPL-3.0 | 1.13.0 / May 20, 2021
 [Java Swing Tips](https://github.com/aterai/java-swing-tips) | Java Swing examples | MIT |
 [JTreeTable](https://github.com/javagl/JTreeTable) | Sun's JTreeTable Component | ["As is"](https://github.com/javagl/JTreeTable/blob/master/LICENSE) | 0.0.1 / Jan 22, 2016
 [swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
