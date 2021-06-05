@@ -63,7 +63,7 @@ Library | Description | License | Latest Version
 [SwiXml](https://github.com/swixml/Two) | XML-to-GUI generating engine   | [Custom](https://github.com/swixml/Two/blob/master/license.txt) | 2.4 / Dec 28, 2014
 [JClass DesktopViews](https://support.quest.com/jclass-desktopviews/6.5.2) | Various Swing components incl. 2D and 3D charts | Commercial | 6.5.2
 [JWrapper](https://www.jwrapper.com) | Native installer (and more) for Java apps | Commercial | 11 April 2018
-[jaret timebars](http://jaret.de/timebars/index.html) | Timeline/Gantt chart-like component | GPL/Commercial | 1.49 / 2013-09-17
+[jaret timebars](http://jaret.de/timebars/index.html) | Timeline/Gantt chart-like component | GPL/Commercial | 1.49 / Sep 17, 2013
 [fontchooser](https://gitlab.com/dheid/fontchooser) | Component to choose a font according to the list of available font families, styles and sizes | GNU LGPLv3 | 2.4
 [JTouchBar](https://github.com/Thizzer/jtouchbar) | Library for using the touchbar API on supported macbooks. | MIT | 1.0.0 / Jan 22, 2019
 [JnaFileChooser](https://github.com/steos/jnafilechooser) |  File chooser that uses the Windows native dialogs if possible. | Custom (Open Source) | 1.0 / Jun 23, 2018
