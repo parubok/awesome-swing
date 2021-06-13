@@ -23,7 +23,7 @@ Library | Description | License | Latest Version
 [GeoTools gt-swing module](http://docs.geotools.org/stable/userguide/unsupported/swing/index.html) | Basic GUI and utility classes for GeoTools library | LGPL | 19.0 / 2018-03-19
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.14 / Jan 21, 2021
 [SVG Salamander](https://github.com/blackears/svgSalamander) | SVG Salamander is an SVG engine for Java | LGPL and BSD | 1.1.2 / Aug 8, 2018
-[JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 4.1 / Mar 26, 2020
+[JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 5.0 / Jun 12, 2021
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 11.2.1 / Mar 1, 2021
 [JDatePicker](https://github.com/JDatePicker/JDatePicker) | Date Picker widget | BSD | 1.3.4.1 / Jun 6, 2015
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
