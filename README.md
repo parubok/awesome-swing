@@ -108,3 +108,4 @@ Library | Description | License | Latest Version
 [jZELD](https://github.com/kkieffer/jZELD) |  Framework for layout and emplacement of various drawn shapes on a canvas | LGPL-3.0 |
 [swing-extensions](https://jonestimd.github.io/swing-extensions/) |  Custom components for Java Swing | MIT | 1.4 / Nov 24, 2019
 [OpenWebStart](https://github.com/karakun/OpenWebStart) |  Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | v1.4.0 / May 12, 2021
+[FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) |  A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.80 / May 20, 2021
