@@ -82,7 +82,7 @@ Library | Description | License | Latest Version
 [Text-IO](https://github.com/beryx/text-io) | Library for creating Java console applications (provides Swing terminal). | Apache 2.0 | 3.4.1 / Apr 17, 2020
 [SwingBits](https://github.com/eugener/oxbow) | Swing UI Enhacements | BSD-3-Clause License |
 [scala-swing](https://github.com/scala/scala-swing) | UI library that wraps most of Java Swing for Scala | Apache 2.0 | v3.0.0#3.0.0 / Nov 11, 2020
-[TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO | BSD-3-Clause | 3.6 / Jul 10, 2020
+[TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) | Collection of plugins and extensions for Java's ImageIO | BSD-3-Clause | 3.7.0 / Apr 24, 2021
 [AWT Color Factory](https://github.com/beryx/awt-color-factory) | Easily create `java.awt.Color` from string | GPL v2 with CE | v1.0.2 / Aug 2, 2020
 [The Snake](https://github.com/hexadeciman/Snake) | A simple snake game | MIT |
 [BatBat Game](https://github.com/tonikolaba/BatBat-Game) | BatBat is an easy and free Maven Java game run in Spring Boot | MIT | 2.5 / Jun 16, 2020
