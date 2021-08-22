@@ -73,7 +73,7 @@ Library | Description | License | Latest Version
 [UiBooster](https://github.com/Milchreis/UiBooster) | Fast and easy dialogs for utility tools | GPL-3.0 | 1.13.0 / May 20, 2021
 [Java Swing Tips](https://github.com/aterai/java-swing-tips) | Java Swing examples | MIT |
 [JTreeTable](https://github.com/javagl/JTreeTable) | Sun's JTreeTable Component | ["As is"](https://github.com/javagl/JTreeTable/blob/master/LICENSE) | 0.0.1 / Jan 22, 2016
-[swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing (Disclaimer: I'm author of the library) | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
+[swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing (Disclaimer: I'm the author of the library) | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
 [SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the [SwingX library](https://en.wikipedia.org/wiki/SwingLabs) | LGPL |
 [Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
 [KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | Apache 2.0 |
@@ -110,4 +110,4 @@ Library | Description | License | Latest Version
 [OpenWebStart](https://github.com/karakun/OpenWebStart) |  Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | v1.4.0 / May 12, 2021
 [FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) |  A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.80 / May 20, 2021
 [JInputValidator](https://github.com/rhwood/jinputvalidator) |  An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.8.0
-[swing-stream-utils](https://github.com/parubok/swing-stream-utils) |  Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm author of the library) | Apache 2.0 | v1.34 / Aug 22, 2021
+[swing-stream-utils](https://github.com/parubok/swing-stream-utils) |  Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.34 / Aug 22, 2021
