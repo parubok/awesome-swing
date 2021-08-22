@@ -73,7 +73,7 @@ Library | Description | License | Latest Version
 [UiBooster](https://github.com/Milchreis/UiBooster) | Fast and easy dialogs for utility tools | GPL-3.0 | 1.13.0 / May 20, 2021
 [Java Swing Tips](https://github.com/aterai/java-swing-tips) | Java Swing examples | MIT |
 [JTreeTable](https://github.com/javagl/JTreeTable) | Sun's JTreeTable Component | ["As is"](https://github.com/javagl/JTreeTable/blob/master/LICENSE) | 0.0.1 / Jan 22, 2016
-[swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing ((Disclaimer: I'm author of the library)) | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
+[swing-fx-properties](https://github.com/parubok/swing-fx-properties) | Adaptation of JavaFX properties for Swing (Disclaimer: I'm author of the library) | [GPL v2 with CE](http://openjdk.java.net/legal/gplv2+ce.html) | 1.15 / Jul 22, 2020
 [SwingX, salvaged](https://github.com/arotenberg/swingx) |  A copy of the source code for the [SwingX library](https://en.wikipedia.org/wiki/SwingLabs) | LGPL |
 [Swing Components](http://www.java2s.com/Code/Java/Swing-Components/CatalogSwing-Components.htm) | Catalog of Swing components | |
 [KControls](https://github.com/k33ptoo/KControls) | Components to beautify user interfaces and give UI’s a modern look | Apache 2.0 |
