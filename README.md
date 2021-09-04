@@ -113,3 +113,4 @@ Library | Description | License | Latest Version
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.34 / Aug 22, 2021
 [jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) | Java library for detecting that the (desktop) operating system uses dark UI theme or not | Apache 2.0 | 3.7 / May 23, 2021
 [PanelMatic](https://github.com/codeworth-gh/PanelMatic) | A Java Swing library for making high-quality complex layouts easy | MIT | 0.9.9 / Aug 23, 2021
+[MIME Browser](https://kynosarges.org/MimeBrowser.html) | Java Swing desktop application for browsing MIME messages that are locally stored in standard EML files | MIT | 2.1.0 / May 29, 2021
