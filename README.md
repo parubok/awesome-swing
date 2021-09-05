@@ -6,7 +6,7 @@ Library | Description | License | Latest Version
 [JUNG](http://jrtom.github.io/jung/) | Network/Graph framework | BSD 3-Clause | 2.1.1 / 7 September 2016
 [JGraphX](https://github.com/jgraph/jgraphx) | Diagramming (graph visualisation) library | BSD |
 [Piccolo2D](https://github.com/piccolo2d/piccolo2d.java) | Graphical toolkit based on the Java2D API | Custom (free) | 3.0.1 / Jan 7, 2019
-[XChart](http://knowm.org/open-source/xchart/) | Lightweight library for plotting data | Apache 2.0 | 3.6.5 / Aug 1, 2020
+[XChart](http://knowm.org/open-source/xchart/) | Lightweight library for plotting data | Apache 2.0 | 3.8.1 / Aug 9, 2021
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.3 / Feb 21, 2021
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.0 / Mar 15, 2020
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 1.5.1 / 26 Feb. 2018
