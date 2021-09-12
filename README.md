@@ -114,3 +114,4 @@ Library | Description | License | Latest Version
 [jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) | Java library for detecting that the (desktop) operating system uses dark UI theme or not | Apache 2.0 | 3.7 / May 23, 2021
 [PanelMatic](https://github.com/codeworth-gh/PanelMatic) | A Java Swing library for making high-quality complex layouts easy | MIT | 0.9.9 / Aug 23, 2021
 [MIME Browser](https://kynosarges.org/MimeBrowser.html) | Java Swing desktop application for browsing MIME messages that are locally stored in standard EML files | MIT | 2.1.0 / May 29, 2021
+[Android Tool](https://github.com/fast-geek/Android-Tool) | Powerful and beautiful program, created to make popular adb and fastboot commands easier to use | Apache 2.0 | v2.0.1 / Sep 11, 2021
