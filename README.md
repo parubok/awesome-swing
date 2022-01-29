@@ -92,6 +92,7 @@ Library | Description | License | Latest Version
 [NetBeans Platform](https://netbeans.org/features/platform/) | Generic framework for Swing applications | [CDDL](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License) &  GPL v2 with CE | 12.0 LTS / June 4, 2020
 [Cypher Notepad](https://github.com/Cypher-Notepad/Cypher-Notepad) | Plain-text (.txt) editor for file encryption | GPL-3.0 | v3.0 / Sep 28, 2020
 [JPass](https://github.com/gaborbata/jpass) | Password manager application with strong encryption (AES-256) | ["As is"](https://github.com/gaborbata/jpass/blob/master/LICENSE) | 0.1.24 / Jun 3, 2021
+[Passwørd Safe](https://github.com/andy-goryachev/PasswordSafe) | A simple, secure password storage tool which allows you to keep all your passwords in one encrypted file | Apache 2.0 | Jul 21, 2019
 [jEdit](http://www.jedit.org/) | Programmer's text editor | GPL 2.0 | 5.6.0 / Sep 03, 2020
 [Apache JMeter](https://github.com/apache/jmeter) | Java application designed to measure performance and load test applications | Apache 2.0 | v5.3 / May 15, 2020
 [Calculator](https://github.com/HouariZegai/Calculator) | Very basic calculator application | MIT |
