@@ -116,3 +116,4 @@ Library | Description | License | Latest Version
 [MIME Browser](https://kynosarges.org/MimeBrowser.html) | Java Swing desktop application for browsing MIME messages that are locally stored in standard EML files | MIT | 2.1.0 / May 29, 2021
 [Android Tool](https://github.com/fast-geek/Android-Tool) | Powerful and beautiful program, created to make popular adb and fastboot commands easier to use | Apache 2.0 | v2.0.1 / Sep 11, 2021
 [SecresOS](https://github.com/PranavAmarnath/SecresOS) |  Lightweight UI for quick interaction with the system and Internet | Apache 2.0 | 1.2 / Jun 2, 2021
+[BinEd](https://bined.exbin.org/) |  Binary/hexadecimal viewer/editor and component | Apache 2.0 | 0.2.1 / Oct. 31, 2021
