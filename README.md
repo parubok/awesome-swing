@@ -103,19 +103,20 @@ Library | Description | License | Latest Version
 [projector-server](https://github.com/JetBrains/projector-server) | Server-side library for running Swing applications remotely | GPL-2.0 | v1.3.0 / Aug 18, 2021
 [FScape](https://github.com/Sciss/FScape) | Standalone, cross-platform audio rendering software | GPL-3.0 | v1.8.1 / Jun 1, 2021
 [ScalaInterpreterPane](https://github.com/Sciss/ScalaInterpreterPane) | Swing component for editing code in the Scala programming language and executing it in an interpreter | LGPL-2.1 | v1.11.0 / Nov 12, 2020
-[jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) |  Graphical frontend for the command-line ExifTool application | GPL-3.0 | 1.8.1 / Dec 8, 2020
-[Rest API Testing](https://github.com/supanadit/restsuite) |  Open Source Rest API Testing | Apache 2.0 | 1.0.0 / Jul 29, 2020
-[Jython Swing Utilities](https://github.com/jython/swingutils) |  A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
+[jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) | Graphical frontend for the command-line ExifTool application | GPL-3.0 | 1.8.1 / Dec 8, 2020
+[Rest API Testing](https://github.com/supanadit/restsuite) | Open Source Rest API Testing | Apache 2.0 | 1.0.0 / Jul 29, 2020
+[Jython Swing Utilities](https://github.com/jython/swingutils) | A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
 [jZELD](https://github.com/kkieffer/jZELD) |  Framework for layout and emplacement of various drawn shapes on a canvas | LGPL-3.0 |
 [swing-extensions](https://jonestimd.github.io/swing-extensions/) |  Custom components for Java Swing | MIT | 1.4 / Nov 24, 2019
-[OpenWebStart](https://github.com/karakun/OpenWebStart) |  Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | v1.4.0 / May 12, 2021
-[FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) |  A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.80 / May 20, 2021
-[JInputValidator](https://github.com/rhwood/jinputvalidator) |  An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.8.0
+[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | v1.4.0 / May 12, 2021
+[FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) | A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.80 / May 20, 2021
+[JInputValidator](https://github.com/rhwood/jinputvalidator) | An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.8.0
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.34 / Aug 22, 2021
 [jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) | Java library for detecting that the (desktop) operating system uses dark UI theme or not | Apache 2.0 | 3.7 / May 23, 2021
 [PanelMatic](https://github.com/codeworth-gh/PanelMatic) | A Java Swing library for making high-quality complex layouts easy | MIT | 0.9.9 / Aug 23, 2021
 [MIME Browser](https://kynosarges.org/MimeBrowser.html) | Java Swing desktop application for browsing MIME messages that are locally stored in standard EML files | MIT | 2.1.0 / May 29, 2021
 [Android Tool](https://github.com/fast-geek/Android-Tool) | Powerful and beautiful program, created to make popular adb and fastboot commands easier to use | Apache 2.0 | v2.0.1 / Sep 11, 2021
-[SecresOS](https://github.com/PranavAmarnath/SecresOS) |  Lightweight UI for quick interaction with the system and Internet | Apache 2.0 | 1.2 / Jun 2, 2021
-[BinEd](https://bined.exbin.org/) |  Binary/hexadecimal viewer/editor and component | Apache 2.0 | 0.2.1 / Oct. 31, 2021
-[SpringRemote](https://github.com/HaleyWang/SpringRemote) |  Tabbed remote linux SSH connections manager | MIT | 0.1.3 / Jan. 29, 2022
+[SecresOS](https://github.com/PranavAmarnath/SecresOS) | Lightweight UI for quick interaction with the system and Internet | Apache 2.0 | 1.2 / Jun 2, 2021
+[BinEd](https://bined.exbin.org/) | Binary/hexadecimal viewer/editor and component | Apache 2.0 | 0.2.1 / Oct. 31, 2021
+[SpringRemote](https://github.com/HaleyWang/SpringRemote) | Tabbed remote linux SSH connections manager | MIT | 0.1.3 / Jan. 29, 2022
+[MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.2 / Mar 25, 2022
