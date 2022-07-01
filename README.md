@@ -120,3 +120,4 @@ Library | Description | License | Latest Version
 [BinEd](https://bined.exbin.org/) | Binary/hexadecimal viewer/editor and component | Apache 2.0 | 0.2.1 / Oct. 31, 2021
 [SpringRemote](https://github.com/HaleyWang/SpringRemote) | Tabbed remote linux SSH connections manager | MIT | 0.1.3 / Jan. 29, 2022
 [MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.2 / Mar 25, 2022
+[TreeLayout](https://github.com/abego/treelayout) | Tree Layout Algorithm in Java | BSD-3-Clause | 1.0.3 / Nov 05, 2015
