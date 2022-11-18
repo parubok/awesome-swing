@@ -9,6 +9,7 @@ Library | Description | License | Latest Version
 [XChart](http://knowm.org/open-source/xchart/) | Lightweight library for plotting data | Apache 2.0 | 3.8.1 / Aug 9, 2021
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.3 / Feb 21, 2021
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.0 / Mar 15, 2020
+[OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 1.5.1 / 26 Feb. 2018
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 	3.2.0 / Mar 12, 2022
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | v9.1.21 / Apr 22, 2021
