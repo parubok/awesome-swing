@@ -123,3 +123,4 @@ Library | Description | License | Latest Version
 [MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.2 / Mar 25, 2022
 [TreeLayout](http://treelayout.sourceforge.net/) | Tree Layout Algorithm in Java | BSD-3-Clause | 1.0.3 / Nov 05, 2015
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 1.4.4 / Dec 14, 2022
+[Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component |  MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
