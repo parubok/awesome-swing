@@ -123,3 +123,4 @@ Library | Description | License | Latest Version
 [MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.2 / Mar 25, 2022
 [TreeLayout](http://treelayout.sourceforge.net/) | Tree Layout Algorithm in Java | BSD-3-Clause | 1.0.3 / Nov 05, 2015
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 1.4.4 / Dec 14, 2022
+[jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) |  Library for detecting if the operating systems is in a dark mode | Apache 2.0 | 3.8 / Jan 3, 2022
