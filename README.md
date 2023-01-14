@@ -113,7 +113,7 @@ Library | Description | License | Latest Version
 [FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) | A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.80 / May 20, 2021
 [JInputValidator](https://github.com/rhwood/jinputvalidator) | An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.8.0
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.35 / Dec 23, 2022
-[jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) | Java library for detecting that the (desktop) operating system uses dark UI theme or not | Apache 2.0 | 3.7 / May 23, 2021
+[jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) | Java library for detecting that the (desktop) operating system uses dark UI theme or not | Apache 2.0 | 3.8 / Jan 3, 2022
 [PanelMatic](https://github.com/codeworth-gh/PanelMatic) | A Java Swing library for making high-quality complex layouts easy | MIT | 0.9.9 / Aug 23, 2021
 [MIME Browser](https://kynosarges.org/MimeBrowser.html) | Java Swing desktop application for browsing MIME messages that are locally stored in standard EML files | MIT | 2.1.0 / May 29, 2021
 [Android Tool](https://github.com/fast-geek/Android-Tool) | Powerful and beautiful program, created to make popular adb and fastboot commands easier to use | Apache 2.0 | v2.0.1 / Sep 11, 2021
@@ -123,4 +123,3 @@ Library | Description | License | Latest Version
 [MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.2 / Mar 25, 2022
 [TreeLayout](http://treelayout.sourceforge.net/) | Tree Layout Algorithm in Java | BSD-3-Clause | 1.0.3 / Nov 05, 2015
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 1.4.4 / Dec 14, 2022
-[jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) |  Library for detecting if the operating systems is in a dark mode | Apache 2.0 | 3.8 / Jan 3, 2022
