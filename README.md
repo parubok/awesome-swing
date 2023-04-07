@@ -128,3 +128,4 @@ Library | Description | License | Latest Version
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.18 / Sep 21, 2021
 [Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 1.53 / Apr 1, 2023
 [Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.1.1 / Sep 12, 2022
+[Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 2020
