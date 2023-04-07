@@ -126,4 +126,5 @@ Library | Description | License | Latest Version
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 1.4.4 / Dec 14, 2022
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.18 / Sep 21, 2021
-[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications. | Apache 2.0 | 1.53 / Apr 1, 2023
+[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 1.53 / Apr 1, 2023
+[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.1.1 / Sep 12, 2022
