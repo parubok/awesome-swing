@@ -1,6 +1,7 @@
 # Awesome Swing
 A list of frameworks, libraries and software for the Java Swing GUI toolkit.
 
+<!-- TABLE_START -->
 Library | Description | License | Latest Version
 --- | --- | --- | ---
 [JUNG](http://jrtom.github.io/jung/) | Network/Graph framework | BSD 3-Clause | 2.1.1 / 7 September 2016
@@ -130,3 +131,4 @@ Library | Description | License | Latest Version
 [Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.11.6 / Jul 06, 2024 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
+<!-- TABLE_END -->
