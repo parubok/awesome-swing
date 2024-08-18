@@ -1,0 +1,38 @@
+name: Release Updates
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r .github/requirements.txt
+
+    - name: Run update script
+      run: python .github/update_versions.py
+      env:
+        API_TOKEN: ${{ secrets.API_TOKEN }}
+
+    - name: Automatically commit and push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update versions in README
