@@ -51,6 +51,7 @@ Library | Description | License | Latest Version
 [SystemTray](https://github.com/dorkbox/SystemTray) | Cross-platform SystemTray support for Swing/AWT | Apache 2.0 | 4.4 / Aug 21, 2023
 [gritty](https://code.google.com/archive/p/gritty/) | Swing terminal widget  | LGPL | 0.02 / Apr 17, 2007
 [DragonConsole](https://github.com/bbuck/DragonConsole) | Terminal emulator | MIT | n/a
+[ApkToolBoxGUI](https://github.com/jiangxincode/ApkToolBoxGUI) | APKToolBoxGUI is a handy tool for programmer with user-friendly Swing GUI | Apache 2.0 | v1.0.4 / Sep 1, 2024
 [JediTerm](https://github.com/JetBrains/jediterm) | Terminal widget that can be easily embedded into an IDE | LGPLv3 and Apache 2.0 | [v2.42](https://mvnrepository.com/artifact/org.jetbrains.jediterm/jediterm-pty/2.42) / Mar 19, 2021
 [swing-console](https://github.com/mikera/swing-console) |  Text console component | [LGPL](https://github.com/mikera/swing-console/issues/3) | 0.1.2 / Mar 14, 2013
 [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) | Source code of IntelliJ IDEA Community Edition | Apache 2.0 |
