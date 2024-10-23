@@ -132,4 +132,6 @@ Library | Description | License | Latest Version
 [Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.11.6 / Jul 06, 2024 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
+[Swingland](https://git.sr.ht/~phlash/swingland) | Re-Implementation of Swing APIs on top of Wayland protocols. Includes a wrapper/launcher so standard Swing apps can be used without modification. | LGPL-2.1 | Source tree only / July 2024
+[Buoy](https://buoy.sourceforge.net/) | UI toolkit API library. "Transparent Wrapper" around Swing with: Simplified API; Simpler, more powerful layout mechanism; Simpler and more flexible event handling and custom event listeners. | Public Domain (explicitly released by the developer) | 1.9 / May 02, 2008
 <!-- TABLE_END -->
