@@ -134,5 +134,5 @@ Library | Description | License | Latest Version
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
 [Swingland](https://git.sr.ht/~phlash/swingland) | Re-Implementation of Swing APIs on top of Wayland protocols. Includes a wrapper/launcher so standard Swing apps can be used without modification. | LGPL-2.1 | Source tree only / July 2024
 [Buoy](https://buoy.sourceforge.net/) | UI toolkit API library. "Transparent Wrapper" around Swing with: Simplified API; Simpler, more powerful layout mechanism; Simpler and more flexible event handling and custom event listeners. | Public Domain (explicitly released by the developer) | 1.9 / May 02, 2008
-[Swing Modal Dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java swing library build with flatlaf look and feel for desktop application | MIT | v2.0 / Oct 20, 2024
+[Swing Modal Dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Library: Modal Dialog, Drawer, Toast Notification | MIT | v2.0 / Oct 20, 2024
 <!-- TABLE_END -->
