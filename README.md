@@ -135,4 +135,5 @@ Library | Description | License | Latest Version
 [Swingland](https://git.sr.ht/~phlash/swingland) | Re-Implementation of Swing APIs on top of Wayland protocols. Includes a wrapper/launcher so standard Swing apps can be used without modification. | LGPL-2.1 | Source tree only / July 2024
 [Buoy](https://buoy.sourceforge.net/) | UI toolkit API library. "Transparent Wrapper" around Swing with: Simplified API; Simpler, more powerful layout mechanism; Simpler and more flexible event handling and custom event listeners. | Public Domain (explicitly released by the developer) | 1.9 / May 02, 2008
 [Swing Modal Dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Library: Modal Dialog, Drawer, Toast Notification | MIT | v2.0 / Oct 20, 2024
+[VRL-Studio](https://vrl-studio.mihosoft.eu/) | An innovative Integrated Development Environment (IDE) based on the Java Platform that combines both visual and text-based programming. | LGPL | v0.4.9.0 / June 28, 2024
 <!-- TABLE_END -->
